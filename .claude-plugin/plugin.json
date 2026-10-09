@@ -1,0 +1,9 @@
+{
+  "name": "label",
+  "version": "1.0.0",
+  "description": "Editable per-window label in the Claude Code status line: /label:set <text>",
+  "author": { "name": "Pacto", "url": "https://pacto.global" },
+  "repository": "https://github.com/Larg0Winch/claude-label",
+  "license": "MIT",
+  "keywords": ["statusline", "label", "claude-code"]
+}
