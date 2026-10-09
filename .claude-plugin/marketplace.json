@@ -1,7 +1,15 @@
 {
   "name": "claude-label",
-  "owner": { "name": "Pacto", "url": "https://pacto.global" },
+  "owner": {
+    "name": "Pacto",
+    "url": "https://pacto.global"
+  },
   "plugins": [
-    { "name": "label", "source": "./", "description": "Editable per-window label in the Claude Code status line" }
-  ]
+    {
+      "name": "label",
+      "source": "./",
+      "description": "Editable per-window label in the Claude Code status line"
+    }
+  ],
+  "description": "Free Claude Code plugins offered by Pacto (pacto.global)"
 }
